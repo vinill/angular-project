@@ -1,2 +1,2 @@
 # angular-project
-![alt tag](https://github.com/vinill/angular-project.git/Screenshot from 2017-03-23 12-52-47.png)
+![myimage-alt-tag](https://docs.angularjs.org/img/tutorial/catalog_screen.png)
